@@ -26,6 +26,7 @@
   become_user: root
   package:
     name: '{{ virtualbox_pkg_name }}'
+    allow_unauthenticated: yes 
     state: present
 
 - name: install vbox drivers...
