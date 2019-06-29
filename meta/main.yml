@@ -2,8 +2,8 @@ dependencies:
 - role: andrewrothstein.epel
   version: v1.0.8
 galaxy_info:
-  author: Andrew Rothstein
-  company: BlackRock
+  author: Leon Guo
+  company: N/A
   description: role that installs virtualbox
   galaxy_tags:
   - development
